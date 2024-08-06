@@ -1,2 +1,0 @@
-// Generated automatically by build script, do not edit
-tcotd2
