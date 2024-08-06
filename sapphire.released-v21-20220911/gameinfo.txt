@@ -1,4 +1,0 @@
-IWAD = "doom2.wad"
-STARTUPTITLE = "Sapphire: Orbital Research"
-STARTUPCOLORS = "FCDBA3", "23494E"
-STARTUPSONG = "NOMUSIC"
