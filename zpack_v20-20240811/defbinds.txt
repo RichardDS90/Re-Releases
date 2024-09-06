@@ -1,3 +1,0 @@
-//binds tought for a QWERTY keyboard
-
-bind h "puke 777"
